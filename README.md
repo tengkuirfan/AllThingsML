@@ -3,7 +3,7 @@ My journey of studying Machine Learning, all in one Repo.
 
 ## Notes:
 1. Each projects have their own folders (e.g. Handwritten Number Recognition using CNN has its own folder, namely `handwrittenNumber_CNN`).
-2. Most (if not all) of the code are tested on Apple Silicon Macs. These codes are not tested on neither Nvidia or AMD GPU, so keep that in mind.
+2. Most (if not all) of the codes are tested on an Apple Silicon Mac and are not tested on Nvidia GPU, so keep that in mind.
 
 ## Setting a Local Environment
 To set up a local virtual environment for your machine learning projects, follow these steps:
